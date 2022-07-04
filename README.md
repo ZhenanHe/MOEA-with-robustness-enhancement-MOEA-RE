@@ -35,13 +35,13 @@ Bibtex:
 
 ```
 @ARTICLE{MOEA_RE,
-		 author={He, Zhenan and Yen, Gary G. and Lv, Jiancheng},
-		 journal={IEEE Transactions on Evolutionary Computation},
-		 title={Evolutionary Multiobjective Optimization With Robustness Enhancement},
-		 year={2020},
-		 volume={24},
-		 number={3},
-		 pages={494-507},
-		 doi={10.1109/TEVC.2019.2933444}}
+	 author={He, Zhenan and Yen, Gary G. and Lv, Jiancheng},
+	 journal={IEEE Transactions on Evolutionary Computation},
+	 title={Evolutionary Multiobjective Optimization With Robustness Enhancement},
+	 year={2020},
+	 volume={24},
+	 number={3},
+	 pages={494-507},
+	 doi={10.1109/TEVC.2019.2933444}}
 ```
 
